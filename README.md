@@ -1,2 +1,3 @@
 # hello-world
-GitHub training
+GitHub training<br>
+In the editor, write a bit about yourself.
